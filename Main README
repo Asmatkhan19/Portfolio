@@ -1,0 +1,44 @@
+# Asmat's UI/UX Design Portfolio
+
+Hi, I'm **Asmat** 👋  
+A professional **UI/UX designer** with 5+ years of experience crafting user-centered designs for SaaS platforms, websites, and mobile apps.
+
+This repo is a collection of my design projects, including case studies, prototypes, and source files.
+
+---
+
+## 🔥 Featured Projects
+
+### 1. [Hash Solutions Website](./project-1-hashsolutions/README.md)  
+Corporate website redesign focusing on simplicity and conversion optimization.  
+*Tools:* Figma, Divi, WordPress  
+![Preview](./project-1-hashsolutions/images/preview.png)
+
+---
+
+### 2. [Mobile Banking App](./project-2-mobileapp/README.md)  
+End-to-end design of a mobile app with emphasis on accessibility and smooth navigation.  
+*Tools:* Figma, Adobe XD  
+![Preview](./project-2-mobileapp/images/preview.png)
+
+---
+
+### 3. [SaaS Dashboard Platform](./project-3-saasplatform/README.md)  
+A complete dashboard interface for managing enterprise workflows.  
+*Tools:* Figma, InVision  
+![Preview](./project-3-saasplatform/images/preview.png)
+
+---
+
+## 📂 Repository Structure
+Each project has:
+- **README** → project overview & process  
+- **Images** → mockups, screenshots  
+- **Files** → design source files, prototypes  
+
+---
+
+## 📬 Contact
+- Portfolio Website: [your-link.com](#)  
+- LinkedIn: [linkedin.com/in/asmat](#)  
+- Email: your-email@example.com

@@ -1,44 +1,96 @@
-# Asmat's UI/UX Design Portfolio
+# Portfolio
+The following is some of my work across websites, mobile apps, SaaS platforms, and internal tools.
 
-Hi, I'm **Asmat** 👋  
-A professional **UI/UX designer** with 5+ years of experience crafting user-centered designs for SaaS platforms, websites, and mobile apps.
-
-This repo is a collection of my design projects, including case studies, prototypes, and source files.
-
----
-
-## 🔥 Featured Projects
-
-### 1. [Hash Solutions Website](./project-1-hashsolutions/README.md)  
-Corporate website redesign focusing on simplicity and conversion optimization.  
-*Tools:* Figma, Divi, WordPress  
-![Preview](./project-1-hashsolutions/images/preview.png)
+1. [Hash Solutions Website](#1-hash-solutions-website)
+2. [Mobile Banking App](#2-mobile-banking-app)
+3. [SaaS Dashboard & Admin Tool](#3-saas-dashboard--admin-tool)
+4. [UI Component Library & Design System](#4-ui-component-library)
+5. [Animations & Microinteractions](#5-animations)
+6. [Information Architecture & Wireframes](#6-information-architecture--wireframing)
+7. [Other Websites & Clients](#7-other-websites--clients)
 
 ---
 
-### 2. [Mobile Banking App](./project-2-mobileapp/README.md)  
-End-to-end design of a mobile app with emphasis on accessibility and smooth navigation.  
-*Tools:* Figma, Adobe XD  
-![Preview](./project-2-mobileapp/images/preview.png)
+## 1. Hash Solutions Website
+Corporate site redesign focused on clarity and conversions.
+
+- **Role:** Lead Product & UX Designer  
+- **Scope:** IA, high-fidelity UI, responsive layouts, component library  
+- **Tools:** Figma, WordPress (Divi)  
+- **Figma:** https://www.figma.com/file/xxx/Hash-Solutions (public link)
+
+![hash-preview](./project-1-hashsolutions/images/preview.png)
+
+> Delivered a simplified homepage and service pages — reduced bounce on service pages by X% *(add metric if available)*.
 
 ---
 
-### 3. [SaaS Dashboard Platform](./project-3-saasplatform/README.md)  
-A complete dashboard interface for managing enterprise workflows.  
-*Tools:* Figma, InVision  
-![Preview](./project-3-saasplatform/images/preview.png)
+## 2. Mobile Banking App
+Onboarding flow, card issuance & wallet integration.
+
+- **Role:** UX / Interaction Designer  
+- **Highlights:** Connected retailer accounts, auto-issue credit, post-onboarding explainer animation  
+- **Figma / Prototype:** https://www.figma.com/file/yyy/Mobile-Banking-App
+
+[Watch onboarding screencap (mp4)](https://your-hosting.com/mobile-onboarding.mp4)
+
+![mobile-onboarding](./project-2-mobileapp/images/onboarding.png)
 
 ---
 
-## 📂 Repository Structure
-Each project has:
-- **README** → project overview & process  
-- **Images** → mockups, screenshots  
-- **Files** → design source files, prototypes  
+## 3. SaaS Dashboard & Admin Tool
+Data-heavy admin interface + workflow engine used internally.
+
+- **Role:** Product Designer (Figma components + states)  
+- **Figma:** https://www.figma.com/file/zzz/SaaS-Dashboard  
+- **Note:** Internal project — some files are confidential.
+
+![dashboard](./project-3-saasplatform/images/dashboard.png)
+![workflow](./project-3-saasplatform/images/workflow.png)
 
 ---
 
-## 📬 Contact
-- Portfolio Website: [your-link.com](#)  
-- LinkedIn: [linkedin.com/in/asmat](#)  
-- Email: your-email@example.com
+## 4. UI Component Library
+Design system with tokens, components, and usage docs.
+
+- **Role:** Design System Lead  
+- **Figma Library:** https://www.figma.com/file/aaa/UI-Library  
+![components](./project-4-ui-library/images/components.png)
+
+---
+
+## 5. Animations & Microinteractions
+Microinteractions used in onboarding & key flows.
+
+- Blog post: *Mastering Nested-Loop Animations at 60fps* (link)  
+- Example GIF (screencap, not perf-representative):
+![cc-slider](./project-5-animations/images/interaction.gif)
+
+---
+
+## 6. Information Architecture & Wireframing
+Research -> IA -> wireframes -> prototypes.
+
+- **Miro board:** https://miro.com/app/board/xxxxx  
+![miro](./project-6-wireframes/images/miro.png)
+
+---
+
+## 7. Other Websites & Clients
+Short links to sites I designed or contributed to — click to view, Figma links included when public.
+
+- [America Pressure Washing](https://www.pressurewashingamerica.com/) — Figma: `link`  
+- [ESG24 Seven](https://esg24seven.com/) — Figma: `link`  
+- [Fresh Burrito](https://freshburrito.ca/) — Figma: `link`  
+- [Hash Solutions](https://hashsolutions.ca/) — Figma: `link`  
+- [Prestige Dental Wellness](https://prestigedentalwellness.ca/) — Figma: `link`  
+- [Retro Dreams](https://retrodreams.ca/) — Figma: `link`  
+- [Ridgeway App + Website](https://ridgewayplaza.food/) — Figma: `link`  
+- ... (add rest of your list here)
+
+---
+
+## Contact
+**Asmat Khan** — Product & UX Designer  
+LinkedIn: https://www.linkedin.com/in/asmat-khan-user-experience-designer/  
+Email: your-email@example.com

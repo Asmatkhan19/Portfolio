@@ -1,96 +1,121 @@
-# Portfolio
-The following is some of my work across websites, mobile apps, SaaS platforms, and internal tools.
-
-1. [Hash Solutions Website](#1-hash-solutions-website)
-2. [Mobile Banking App](#2-mobile-banking-app)
-3. [SaaS Dashboard & Admin Tool](#3-saas-dashboard--admin-tool)
-4. [UI Component Library & Design System](#4-ui-component-library)
-5. [Animations & Microinteractions](#5-animations)
-6. [Information Architecture & Wireframes](#6-information-architecture--wireframing)
-7. [Other Websites & Clients](#7-other-websites--clients)
-
----
-
-## 1. Hash Solutions Website
-Corporate site redesign focused on clarity and conversions.
-
-- **Role:** Lead Product & UX Designer  
-- **Scope:** IA, high-fidelity UI, responsive layouts, component library  
-- **Tools:** Figma, WordPress (Divi)  
-- **Figma:** https://www.figma.com/file/xxx/Hash-Solutions (public link)
-
-![hash-preview](./project-1-hashsolutions/images/preview.png)
-
-> Delivered a simplified homepage and service pages — reduced bounce on service pages by X% *(add metric if available)*.
-
----
-
-## 2. Mobile Banking App
-Onboarding flow, card issuance & wallet integration.
-
-- **Role:** UX / Interaction Designer  
-- **Highlights:** Connected retailer accounts, auto-issue credit, post-onboarding explainer animation  
-- **Figma / Prototype:** https://www.figma.com/file/yyy/Mobile-Banking-App
-
-[Watch onboarding screencap (mp4)](https://your-hosting.com/mobile-onboarding.mp4)
-
-![mobile-onboarding](./project-2-mobileapp/images/onboarding.png)
-
----
-
-## 3. SaaS Dashboard & Admin Tool
-Data-heavy admin interface + workflow engine used internally.
-
-- **Role:** Product Designer (Figma components + states)  
-- **Figma:** https://www.figma.com/file/zzz/SaaS-Dashboard  
-- **Note:** Internal project — some files are confidential.
-
-![dashboard](./project-3-saasplatform/images/dashboard.png)
-![workflow](./project-3-saasplatform/images/workflow.png)
-
----
-
-## 4. UI Component Library
-Design system with tokens, components, and usage docs.
-
-- **Role:** Design System Lead  
-- **Figma Library:** https://www.figma.com/file/aaa/UI-Library  
-![components](./project-4-ui-library/images/components.png)
-
----
-
-## 5. Animations & Microinteractions
-Microinteractions used in onboarding & key flows.
-
-- Blog post: *Mastering Nested-Loop Animations at 60fps* (link)  
-- Example GIF (screencap, not perf-representative):
-![cc-slider](./project-5-animations/images/interaction.gif)
-
----
-
-## 6. Information Architecture & Wireframing
-Research -> IA -> wireframes -> prototypes.
-
-- **Miro board:** https://miro.com/app/board/xxxxx  
-![miro](./project-6-wireframes/images/miro.png)
-
----
-
-## 7. Other Websites & Clients
-Short links to sites I designed or contributed to — click to view, Figma links included when public.
-
-- [America Pressure Washing](https://www.pressurewashingamerica.com/) — Figma: `link`  
-- [ESG24 Seven](https://esg24seven.com/) — Figma: `link`  
-- [Fresh Burrito](https://freshburrito.ca/) — Figma: `link`  
-- [Hash Solutions](https://hashsolutions.ca/) — Figma: `link`  
-- [Prestige Dental Wellness](https://prestigedentalwellness.ca/) — Figma: `link`  
-- [Retro Dreams](https://retrodreams.ca/) — Figma: `link`  
-- [Ridgeway App + Website](https://ridgewayplaza.food/) — Figma: `link`  
-- ... (add rest of your list here)
-
----
-
-## Contact
-**Asmat Khan** — Product & UX Designer  
-LinkedIn: https://www.linkedin.com/in/asmat-khan-user-experience-designer/  
-Email: your-email@example.com
+Design Projects
+America Pressure Washing Website: https://www.pressurewashingamerica.com/
+Educational Modernity Schools Website: * ESG24 Seven Website: https://esg24seven.com/
+Exir Saffron Home Page Design: https://c76999-2.myshopify.com/
+Fresh Burrito Website: https://freshburrito.ca/
+Hakkalicious Chinese Restaurant Website: https://hakkalicious.ca/
+Hash Solution Website Design: https://hashsolutions.ca/
+HT Construction Website Redesign: https://htconstructioninc.ca/
+In2scuba Diving Website: https://new.in2scubadivingmaui.com/
+JBJ Pressure Washing Website: https://jbjpressurewashing.com/
+Khachmeruk Gyumri Restaurant Website: https://khachmerukgyumri.am/
+Koach Hatodaa Website Design: https://koach-hatodaa.co.il/courses#certificate
+Medical Clinic Website Design: * Mid Way Locksmith Website: https://midwaylocksmithservice.com/
+Political Magazine Website Design: * Pressure Washing Sugar Land Website: https://pressurewashingsugarland.com/
+Prestige Dental Wellness Website: https://prestigedentalwellness.ca/
+Retro Dream Website: https://retrodreams.ca/
+Ridgeway App + Website: https://ridgewayplaza.food/
+Rkalliz Cosmetics Website Design: https://rkallizcosmetic.com/
+Sh Dina Website: * UBCS Website: https://ubcs.ca/Tutor Booking Dashboard
+Watar Management System: * Electronic Component Pinouts: * Mr Speedy Plumbing and Rooters Website: https://www.mrspeedyplumbing.com
+Gleam Toronto Website: https://gleamtoronto.com
+Shaykh Rasoul Website: https://shaykhrasoul.com
+Mian Nadeem Website: https://miannadeem.com
+Baghdad Restaurant Website: https://www.baghdad-restaurant.com
+SAM'S Nashville Hot Chicken Website: https://glistening-sorbet-add631.netlify.app/
+Charc Shawarma Website: https://www.figma.com/design/SfwAfHukPwTNc1Son5AlqV/Roman-Zaman-Website-Design?node-id=0-1&t=RhPgxRFKBEhxM6AW-1
+Turkish Shahshlik Website: * Asher Nadeem Real Estate Website: * Roman Zaman Website: https://www.figma.com/design/SfwAfHukPwTNc1Son5AlqV/Roman-Zaman-Website-Design?node-id=0-1&t=RhPgxRFKBEhxM6AW-1
+Point of Sale System: * No Code Web App Soul 5 Website: * Net Equity Capital Website: https://netequitycapital.com/
+Vbase AI Website: https://vbase.ai/
+Team Empire Sports Website: https://www.teamempiresports.com/
+Cobalt Therapy Website: https://cobalttherapy.com/
+CA-NV Moose Website: https://www.ca-nvmoose.org/
+Outdoor Yard Store Website: https://outdooryardstore.com/
+Vasko Notary Website: https://www.vaskonotary.com/
+Your Auto Repair Advocate Website: https://yourautorepairadvocate.com/
+Bourbon Hall Website: https://bourbonhall.live/
+Wire Cloth Filter Website: https://wireclothfilter.net/
+The Wellness Potential Website: https://thewellnesspotential.com/
+LL Manning Books Website: https://llmanningbooks.com/
+Fire Dept Roofing Website: https://firedeptroofing.com/
+Torsion Spring Partners Website: https://torsionspringpartners.com/
+Attributa Website: https://attributa.io/
+The Stoz Group Website: https://thestozgroup.com/
+County Sprout Website: https://countysprout.com/
+7 Hills Capital Website: https://7hills.capital/
+Jessies Juice Bar Website: https://jessiesjuicebar.com/
+Kalycito Website: https://www.kalycito.com/
+Pacific Landscaping Service Website: https://pacificlandscapingservice.com/
+Blossom Beauty FL Website: https://blossombeautyfl.com/
+Vincit Capital Website: https://vincitcapital.investments/
+Bretz Law Office Website: http://bretzlawoffice.com/
+Dr Dave DDS Website: https://drdavedds.com/
+Curated Cruises Website: https://curatedcruises.com/
+Furrl Website: https://furrl.in/
+Gate Legal Website: https://gatelegal.com/
+Gusto CB Catering Website: https://gustocbcatering.com/
+Mack Pro Renovations Website: https://mackprorenovations.com/
+Lubin Elite Website: https://lubinelite.com/
+Summit Custom Pools Website: https://summitcustompools.createdbyluis.com/
+Trinity Digital Website: https://trinitydigital.tech/
+RNC Lighting Website: https://rnclighting.com/
+Xapbox Studios Website: https://xapboxstudios.com/
+Cambridge AMC Website: https://cambridgeamc.com/
+Ultimate Drilling Website: https://ultimate-drilling.nz/
+Turnkeepers Website: https://turnkeepers.com/
+Higron Website: https://higron.com/
+Pure Institute of Electrology Website: https://pureinstituteofelectrology.online/
+Araae Website: https://araae.net/
+Genesis Flagstaff Website: https://genesisflagstaff.com/
+Kandl Construction Website: https://kandlconstruction.com/
+Connections With Nature Website: https://connectionswithnature.com/
+Grande Maison Website: https://grandemaison.mr/
+Laga Group Website: https://lagagroup.org/
+Eastern Building VT Website: http://easternbuildingvt.com/
+Figura Analytics Website: https://figura-analytics.co.uk/
+JMK USA Website: https://jmkusa.com/
+Style and Structure Inc Website: https://styleandstructureinc.com/
+PR Electric Services Website: https://prelectricservices.com/
+Marry Me Fine Events Website: https://marrymefineevents.com/
+Aigs Website: https://aigs.ca/
+Envirocore Cut Files Website: https://envirocorecutfiles.litecorp.com.au/
+Elifiatek Website: https://elifiatek.com/
+Xkynet Website: https://xkynet.net/
+Golden Hawk Tech Website: https://goldenhawktech.com/
+Metra Assoc Website: https://metra-assoc.com/
+Saturday Lawyer Website: https://saturdaylawyer.org/
+Advantage Paving Website: https://advantagepaving.ca/
+Freedom Tax and Accounting Website: https://freedomtaxandaccounting.biz/
+C Green Interiors Website: https://cgreeninteriors.com/
+Credit Help MD Website: https://credithelpmd.com/
+D-B-Dipn Website: https://d-b-dipn.com/
+Figura Drinks Website: https://figuradrinks.com/
+Made for Kings Oils Website: https://madeforkingsoils.com/
+S Deviants Website: https://sdeviants.io/
+Fusion Constructions Website: https://fusionconstructions.com/
+Powerexs Website: https://powerexs.com/
+SQ1 Exteriors Website: https://sq1exteriors.com/
+Trident-BS Website: https://trident-bs.com/
+Empowered Aquatics Website: https://empoweredaquatics.com/
+Joseph Gissy Website: https://josephgissy.com/
+MZS Networks Website: https://mzsnetworks.com/
+Pass Inc Website: https://passinc.com/
+Oculotix Website: https://oculotix.ai/
+The K9 Revolution Website: https://thek9revolution.com/
+Bourhis Law Website: https://bourhislaw.com/
+Christian Science Fullerton Website: https://christiansciencefullerton.com/
+Micro Skin Center Website: https://microskincenter.com/
+Roadsid Express Website: https://roadsidexpress.com/
+SE Spring Skin Website: https://sespringskin.com/
+Rugby ABP Website: https://rugbyabp.com/
+Paxton Wood Website: https://paxtonwood.com/
+Soul Survivor Website: https://soulsurvivor.ink/
+Tnov Website: https://tnov.com/
+Peerless Logistics Website: https://peerlesslogistics.com/
+Peerless Talent Website: https://peerlesstalent.com/
+LOL Comedy Lounge Website: https://lolcomedylounge.com/
+Nunzio Saviano Website: https://nunziosaviano.com/
+Global Com VA Website: https://globalcomva.com/
+Bassil Bookbinding Website: https://bassilbookbinding.com/
+Boudwin Law Website: https://boudwinlaw.com/
+Design One Source Website: https://designonesource.com/
